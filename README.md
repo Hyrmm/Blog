@@ -29,4 +29,5 @@
 2. [Nginx部署Django总结](https://github.com/Hyrmm/Blog/issues/13)（2022.02.22）
 3. [Nginx部署Django引发的静态文件处理问题](https://github.com/Hyrmm/Blog/issues/14)（2021.02.23）
 4. [小试位运算](https://github.com/Hyrmm/Blog/issues/15)（2022.03.03）
+5. [浏览器的强制缓存与协商缓存](https://github.com/Hyrmm/Blog/issues/16)（2023.01.02）
 
