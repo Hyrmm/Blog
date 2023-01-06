@@ -18,6 +18,7 @@
 5. [浏览器中实现CommandJs规范源码分析](https://github.com/Hyrmm/Blog/issues/8)（2022.04.23）
 6. [变量提升浅认识](https://github.com/Hyrmm/Blog/issues/9)（2022.06.07）
 7. [彻底弄懂作用域链、执行上下文(执行环境)](https://github.com/Hyrmm/Blog/issues/10)（2023.01.02）
+8. [for..of引出迭代器(Iterator)的总结](https://github.com/Hyrmm/Blog/issues/17)（2023.01.07）
 
 ## Vue
 
